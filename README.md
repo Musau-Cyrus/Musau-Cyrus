@@ -4,13 +4,39 @@
 
 I'm a Computer Science student who is passionate about Software Engineering.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-patel-30b460204/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyrus-musau/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sunnypatell&theme=midnight-purple&mode=weekly)](https://git.io/streak-stats)
+## About Me
+💻 **Software Engineer** experienced in designing, building, and optimizing scalable applications.  
+🚀 **Passionate about performance, scalability, and writing clean, maintainable code**.  
+🌍 **Always learning** and exploring **DevOps, Backend Engineering, and AI-driven solutions**.
 
+## 🛠 Tech Stack & Expertise  
 
-HTML/CSS: Skilled in crafting responsive and visually appealing web pages.
-JavaScript: Experienced in creating interactive web applications and enhancing user experience.
-Java: Proficient in object-oriented programming and developing applications.
+### **Software Development Languages**
 
+[<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="40">](https://www.java.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40">](https://www.python.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40">](https://www.cplusplus.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="40">](https://www.typescriptlang.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40">](https://reactjs.org/)
+
+## 🚀 Goals for 2025  
+
+✅ **Build scalable full-stack applications**  
+✅ **Expand expertise in DevOps & CI/CD pipelines**  
+✅ **Explore AI & ML integration in software development**  
+✅ **Bacome a Certified ALX Learner** 
+
+---
+
+## 📬 Let's Connect  
+
+📌 I’m open to discussions on software engineering, system design, and cloud computing.  
+🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/cyrus-musau/)**!  
+
+---
 I’m eager to learn, collaborate, and contribute to exciting projects. Check out my repositories to see what I’m working on!💻👽
