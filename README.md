@@ -35,7 +35,7 @@ I'm a Computer Science student who is passionate about Software Engineering.
 
 ## 📬 Let's Connect  
 
-📌 I’m open to discussions on software engineering, system design, and cloud computing.  
+📌 I’m open to discussions on software engineering.  
 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/cyrus-musau/)**!  
 
 ---
