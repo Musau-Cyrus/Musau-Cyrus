@@ -39,4 +39,3 @@ I'm a Computer Science student who is passionate about Software Engineering.
 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/cyrus-musau/)**!  
 
 ---
-I’m eager to learn, collaborate, and contribute to exciting projects. Check out my repositories to see what I’m working on!💻👽
