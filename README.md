@@ -24,6 +24,16 @@ I'm a Computer Science student who is passionate about Software Engineering.
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40">](https://reactjs.org/)
 
+### GitHub stats card
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=nord_bright&)
+
+`http://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme={theme_name}`
+- Accept url parameters
+  - theme
+    - Theme name
+  - username
+    - Username
+    
 ## 🚀 Goals for 2025  
 
 ✅ **Build scalable full-stack applications**  
