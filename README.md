@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&random=false&width=435&lines=Full-Stack+Developer;Backend+Engineer;Computer+Science+Student;DevOps+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&random=false&width=435&lines=Full-Stack+Developer;Backend+Software+Engineer;Computer+Science+Student;DevOps+Enthusiast)](https://git.io/typing-svg)
 
 # Hey there, I'm Cyrus Musau! 
 
