@@ -5,7 +5,7 @@
 I'm a Computer Science student who is passionate about Software Engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyrus-musau/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cyr.us._?igsh=ZGUzMzM3NWJiOQ==)
 ## About Me
 💻 **Software Engineer** experienced in designing, building, and optimizing scalable applications.  
 🚀 **Passionate about performance, scalability, and writing clean, maintainable code**.  
