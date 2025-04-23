@@ -38,7 +38,8 @@ I'm a Computer Science student who is passionate about Software Engineering.
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40">](https://reactjs.org/)
 
 
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Musau-Cyrus&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ## 🚀 Goals for 2025  
 
 ✅ **Build scalable full-stack applications**  
