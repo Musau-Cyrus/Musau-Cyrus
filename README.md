@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&random=false&width=435&lines=Full-Stack+Developer;Back-end+Software+Engineer;Front-end+Software+Engineer;Computer+Science+Student;DevOps+Enthusiast)](https://git.io/typing-svg)
 
-# Hey there, I'm Cyrus Musau! 
+# Hello, my name is Cyrus Musau! 
 
 I'm a Computer Science student who is passionate about Software Engineering.
 
