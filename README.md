@@ -35,7 +35,10 @@ I'm a Computer Science student who is passionate about Software Engineering.
 ### Frameworks/Libraries
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40">](https://reactjs.org/)
 ### Styling
-### Build Tools
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40">](https://v2.tailwindcss.com/docs)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40">](https://getbootstrap.com/docs/3.4/css/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="40">
+
 ### UI/UX Design
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
 
@@ -50,15 +53,19 @@ I'm a Computer Science student who is passionate about Software Engineering.
 
 ## 3. Databases
 ### Relational Databases
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40">](https://www.postgresql.org/docs/)
+<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="40">
 ### Non-Relational Databases
+[<img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" height="40">](https://www.mongodb.com/docs/)
 
 ## 4. DevOps / Infrastructure
 ### Version Control - Git and Github
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="40">](https://github.com/Musau-Cyrus/Musau-Cyrus)
 
 ## 5. Mobile Development
-### Cross-Platform - React Native
-
+### Cross-Platform 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40">](http://reactnative.dev/)
 ## 6. Testing & Quality Assurance
 ### Unit Testing: - Jest
 
