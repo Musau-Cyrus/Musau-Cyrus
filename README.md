@@ -61,7 +61,7 @@ I'm a Computer Science student who is passionate about Software Engineering.
 ## 4. DevOps / Infrastructure
 ### Version Control - Git and Github
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="40">](https://github.com/Musau-Cyrus/Musau-Cyrus)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="40">](https://github.com/Musau-Cyrus)
 
 ## 5. Mobile Development
 ### Cross-Platform 
