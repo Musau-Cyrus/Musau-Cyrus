@@ -49,23 +49,35 @@ I'm a Computer Science student who is passionate about Software Engineering.
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40">](https://www.cplusplus.com/)
 
 ### Frameworks
-### APIs
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" height="40">](https://www.djangoproject.com/)
+### APIs and Tools
+<p align="left">
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+  </a> 
+</p>
 
 ## 3. Databases
 ### Relational Databases
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40">](https://www.postgresql.org/docs/)
 <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="40">
 ### Non-Relational Databases
-[<img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" height="40">](https://www.mongodb.com/docs/)
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+</p>
+
 
 ## 4. DevOps / Infrastructure
-### Version Control - Git and Github
+### Version Control
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="40">](https://github.com/Musau-Cyrus)
 
 ## 5. Mobile Development
 ### Cross-Platform 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40">](http://reactnative.dev/)
+
 ## 6. Testing & Quality Assurance
 ### Unit Testing: - Jest
 
