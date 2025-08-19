@@ -23,8 +23,6 @@ I'm a Computer Science student who is passionate about Software Engineering.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Musau-Cyrus&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Musau-Cyrus&theme=tokyonight&)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Musau-Cyrus&theme=tokyonight&hide_border=false)
-
 # 🛠 Tech Stack & Expertise  
 ## 1. Frontend (Client Side)
 ### Languages
@@ -88,8 +86,10 @@ I'm a Computer Science student who is passionate about Software Engineering.
 ## 8. Operating Systems (OS)
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Musau-Cyrus&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+
+![](https://nirzak-streak-stats.vercel.app/?user=Musau-Cyrus&theme=tokyonight&hide_border=false)
+
 ## 🚀 Goals for 2025  
 
 ✅ **Build scalable full-stack applications**  
