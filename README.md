@@ -86,7 +86,7 @@ I'm a Computer Science student who is passionate about Software Engineering.
 ## 8. Operating Systems (OS)
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 
-
+---
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Musau-Cyrus&theme=tokyonight&hide_border=false)
 
